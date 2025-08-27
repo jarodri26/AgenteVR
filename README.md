@@ -41,7 +41,7 @@ O sistema é construído com uma arquitetura de **agentes orquestrados**:
 1. **Clone o repositório**
 ```bash
 git clone https://github.com/jarodri26/AgenteVR.git
-cd projeto-i2a2
+cd AgenteVR
 ```
 
 2. **Instale as dependências**
