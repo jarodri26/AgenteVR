@@ -40,7 +40,7 @@ O sistema é construído com uma arquitetura de **agentes orquestrados**:
 
 1. **Clone o repositório**
 ```bash
-git clone https://github.com/rafael-conrado/projeto-i2a2
+git clone https://github.com/jarodri26/AgenteVR.git
 cd projeto-i2a2
 ```
 
